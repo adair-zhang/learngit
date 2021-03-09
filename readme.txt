@@ -1,4 +1,4 @@
 apple
-no ff文本
+conflict fixed
 
-bug fixed
+
